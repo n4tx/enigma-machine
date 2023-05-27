@@ -1,7 +1,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <Windows.h>
+#include <chrono>
+#include <thread>
 #include "enigma_machine.h"
 
 int main() {
